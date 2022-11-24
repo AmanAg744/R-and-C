@@ -1,0 +1,8 @@
+ord() func tells ascii value 
+utf 8 recommended for encoding data exchanged between systems
+default encoding is utf 8 or ascii
+python has urllib to do the socket work 
+urllib.request     urllib.request.urlopen same like dictionary behaves like an open function
+    
+urllib.parse
+urllib.error

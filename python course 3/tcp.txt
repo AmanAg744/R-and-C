@@ -1,0 +1,4 @@
+python has inbuilt socket libraries
+import socket
+mysock = socket.socket(socket.Af_INET, socket.SOCK_STREAM)
+mysock.connect('data.p4re.org',80)

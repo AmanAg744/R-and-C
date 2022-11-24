@@ -1,0 +1,17 @@
+difference between html and xml
+    html displays data and describes the structure 
+    html has a predefined language
+    xml stores and transfers data 
+    standard language that defines other languages
+
+    serializing  process of converting the state of data to ease its transfer and storage
+    Serialization and deserialization work together to transform/recreate data objects to/from 
+    a portable format.
+
+    xml marking up data to send across the metwork
+    json
+    csv 
+    Data formats such as JSON and XML are often used as the format for storing serialized data. 
+    popular object-oriented programming languages provide either native support for serialization or 
+    have libraries that add non-native capabilities for serialization to their feature 
+    set. Java, .NET, C++, Node.js, Python, and Go, for example, all either have native serialization support or integrate with libraries for serialization.

@@ -1,0 +1,25 @@
+^ matches beggining of a line
+$ matches end of a line
+. matches any char
+\s matches whitespace
+\S matches any non whitespace char
+* repeats a char 0 or more times
+        ( largest possible version of the string)greedy matching
+
+*? repeats a char 0 or more times ( non greedy) shortest poss ver of the str
++ repeats a char 1 or more times
++? repeats a char 1 or more times ( non greedy)
+[aeiou] matches a single char in the listed set
+[^ABC] not matches a sinhgle char in the listed set
+[a-z0-9]  the set of char can include a range
+( indicates where str extraction has to start
+) indicates where string extraction has to end
+[^ {{what is written here omitting this}}]
+if we want a regex char to behave normally we use \
+
+
+
+import.re
+re.search() search for words in a string
+re.findall() basically finds the portions of a string we are searching for
+
